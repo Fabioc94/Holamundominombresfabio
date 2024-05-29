@@ -1,0 +1,9 @@
+body{
+  Color: #000000; 
+  font-family: "Mystery Quest", cursive;
+  font-size: 80%;
+  text-align: center;
+
+  background-image: radial-gradient(circle, #dde0dd 0%, #35e8dd 94%);
+    
+}
